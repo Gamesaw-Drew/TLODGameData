@@ -1463,8 +1463,12 @@
 {"Filename": "LegendofDiamondback/Config/DefaultEngine.ini", "sha256" : "5097"},
 {"Filename": "LegendofDiamondback/Config/DefaultGame.ini", "sha256" : "1422"},
 {"Filename": "LegendofDiamondback/Config/DefaultInput.ini", "sha256" : "10232"},
-{"Filename": "LegendofDiamondback/Content/Paks/pakchunk0-WindowsNoEditor.pak", "sha256" : "86658423"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk0-WindowsNoEditor.pak", "sha256" : "86833947"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk0-WindowsNoEditor_P.pak", "sha256" : "181376"},
 {"Filename": "LegendofDiamondback/Content/Paks/pakchunk1-WindowsNoEditor.pak", "sha256" : "12943139"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk1-WindowsNoEditor_P.pak", "sha256" : "3203854"},
 {"Filename": "LegendofDiamondback/Content/Paks/pakchunk2-WindowsNoEditor.pak", "sha256" : "49660089"},
-{"Filename": "LegendofDiamondback/Content/Paks/pakchunk3-WindowsNoEditor.pak", "sha256" : "56846"}
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk2-WindowsNoEditor_P.pak", "sha256" : "55"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk3-WindowsNoEditor.pak", "sha256" : "56846"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk3-WindowsNoEditor_P.pak", "sha256" : "55"}
 ]}
