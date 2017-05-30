@@ -1634,11 +1634,11 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Users/Drew/Documents/LegendofDiamondbackBuild")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptPakIndex:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
@@ -1664,7 +1664,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/Scenes/MainMenu")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeBlueprintAssets:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeOnlySelectedBlueprints:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=False
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
