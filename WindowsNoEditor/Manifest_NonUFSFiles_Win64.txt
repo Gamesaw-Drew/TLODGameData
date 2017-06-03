@@ -1,6 +1,6 @@
 Engine\Binaries\Win64\CrashReportClient.exe	2017-05-26T22:41:41.018Z
-LegendofDiamondback\Binaries\Win64\LegendofDiamondback-Win64-Shipping.exe	2017-05-30T00:22:25.816Z
-LegendofDiamondback.exe	2017-05-30T19:46:23.219Z
+LegendofDiamondback\Binaries\Win64\LegendofDiamondback-Win64-Shipping.exe	2017-06-03T18:43:45.846Z
+LegendofDiamondback.exe	2017-06-03T19:09:20.578Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe	2017-05-26T22:45:29.676Z
 Engine\Plugins\Runtime\Nvidia\Ansel\Binaries\ThirdParty\AnselSDK64.dll	2017-05-26T22:51:52.557Z
 Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.dll	2017-05-26T22:41:08.129Z
