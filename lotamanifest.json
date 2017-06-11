@@ -1531,7 +1531,7 @@
 {"Filename": "LegendofDiamondback/Config/DefaultEngine.ini", "sha256" : "5097"},
 {"Filename": "LegendofDiamondback/Config/DefaultGame.ini", "sha256" : "1422"},
 {"Filename": "LegendofDiamondback/Config/DefaultInput.ini", "sha256" : "10232"},
-{"Filename": "LegendofDiamondback/Content/Paks/pakchunk0-WindowsNoEditor.pak", "sha256" : "101527004"},
+{"Filename": "LegendofDiamondback/Content/Paks/pakchunk0-WindowsNoEditor.pak", "sha256" : "101527050"},
 {"Filename": "LegendofDiamondback/Content/Paks/pakchunk2-WindowsNoEditor.pak", "sha256" : "27283019"},
 {"Filename": "LegendofDiamondback/Saved/Config/CrashReportClient/UE4CC-Windows-A9CDC3F3402BAE576A3B79A70CAED14C/CrashReportClient.ini", "sha256" : "114"},
 {"Filename": "LegendofDiamondback/Saved/Config/CrashReportClient/UE4CC-Windows-B10AB19342B055A0C5843A8F7F389086/CrashReportClient.ini", "sha256" : "114"},
